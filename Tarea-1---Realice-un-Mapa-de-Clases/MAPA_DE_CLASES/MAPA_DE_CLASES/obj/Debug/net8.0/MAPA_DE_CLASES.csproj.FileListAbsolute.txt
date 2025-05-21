@@ -1,0 +1,14 @@
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\obj\Debug\net8.0\MAPA_DE_CLASES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\obj\Debug\net8.0\MAPA_DE_CLASES.AssemblyInfoInputs.cache
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\obj\Debug\net8.0\MAPA_DE_CLASES.AssemblyInfo.cs
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\obj\Debug\net8.0\MAPA_DE_CLASES.csproj.CoreCompileInputs.cache
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\bin\Debug\net8.0\MAPA_DE_CLASES.exe
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\bin\Debug\net8.0\MAPA_DE_CLASES.deps.json
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\bin\Debug\net8.0\MAPA_DE_CLASES.runtimeconfig.json
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\bin\Debug\net8.0\MAPA_DE_CLASES.dll
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\bin\Debug\net8.0\MAPA_DE_CLASES.pdb
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\obj\Debug\net8.0\MAPA_DE_CLASES.dll
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\obj\Debug\net8.0\refint\MAPA_DE_CLASES.dll
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\obj\Debug\net8.0\MAPA_DE_CLASES.pdb
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\obj\Debug\net8.0\MAPA_DE_CLASES.genruntimeconfig.cache
+C:\Users\bryan\Desktop\PRACTICAS ITLA2\PROGRAMACION 2\Tarea-1---Realice-un-Mapa-de-Clases\MAPA_DE_CLASES\MAPA_DE_CLASES\obj\Debug\net8.0\ref\MAPA_DE_CLASES.dll

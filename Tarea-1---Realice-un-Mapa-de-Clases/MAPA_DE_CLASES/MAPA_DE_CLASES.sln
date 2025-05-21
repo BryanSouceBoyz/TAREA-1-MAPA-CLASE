@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35806.103 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAPA_DE_CLASES", "MAPA_DE_CLASES\MAPA_DE_CLASES.csproj", "{379607B2-5971-4A5B-8FF1-BE6D0184EEE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{379607B2-5971-4A5B-8FF1-BE6D0184EEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379607B2-5971-4A5B-8FF1-BE6D0184EEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379607B2-5971-4A5B-8FF1-BE6D0184EEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379607B2-5971-4A5B-8FF1-BE6D0184EEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBE1136B-8CE7-42A8-81A0-4E7D108E94E4}
+	EndGlobalSection
+EndGlobal
